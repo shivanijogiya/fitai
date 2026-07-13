@@ -1,4 +1,4 @@
-# FitAI — AI-Powered Wellness Companion
+# FitAI - AI-Powered Wellness Companion
 
 A cross-platform Flutter app with a Node.js backend that helps users track workouts, nutrition, and water intake, and get personalised health coaching via Gemini AI.
 
